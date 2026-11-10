@@ -20,8 +20,8 @@ I build <strong>AI Agents</strong> and <strong>Chatbots</strong> with <strong>n8
 | Project | What it does | Status |
 | :--- | :--- | :--- |
 | **Stock Analysis Agent** | Send a ticker on Telegram, get a 60-day chart + AI Verdict with Confidence. Yahoo Finance (free) + QuickChart + Telegram. | ✅ Tested working |
-| **AI Lead Capture Automation** | n8n workflow: Webhook → AI Agent → Google Sheets → Telegram alert → Human approval → Gmail follow-up. | 📦 Portfolio-ready and working|
-| **Messenger Passport Assistant** | Answers passport questions with RAG (Qdrant) and analyses passport photos. | 🔨 Building Perfectly|
+| **AI Lead Capture Automation** | n8n workflow: Webhook → AI Agent → Google Sheets → Telegram alert → Human approval → Gmail follow-up. | 📦 Portfolio-ready|
+| **Messenger Passport Assistant** | Answers passport questions with RAG (Qdrant) and analyses passport photos. | 🔨 Building |
 
 ---
 
